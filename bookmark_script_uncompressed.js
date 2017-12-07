@@ -92,5 +92,6 @@ var triats_obj = document.getElementsByClassName("ListAttributes-item");
 for (var i in triats_obj){ 
     if(triats_obj[i].innerText !== undefined){
         triats_obj[i].style.backgroundColor = getColorForPercentage(db[triats_obj[i].innerText].probability);
+        triats_obj[i].innerText = triats_obj[i].innerText + " (" + (db[triats_obj[i].innerText].probability*100).toFixed(2) + "%)";
     }
 }
