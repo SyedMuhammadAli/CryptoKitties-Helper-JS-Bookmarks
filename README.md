@@ -15,4 +15,6 @@ To use the bookmark:
 Red => Rare
 Green => Common
 
-Values estimated from http://cryptokittydex.com/cattributes on 7th of December 2017.
+Values estimated from http://cryptokittydex.com/cattributes
+
+Last updated: 8th Dec 2017 @ 3:39 AM (GMT + 1)
